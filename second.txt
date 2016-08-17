@@ -1,0 +1,9 @@
+Hi this is my second text file in git repo 
+
+
+git hub commit
+
+
+used git clone by generating ssh key
+
+
